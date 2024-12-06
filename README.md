@@ -41,4 +41,4 @@
 ## Οδηγίες Χρήσης
 1. Κλωνοποιήστε το αποθετήριο:
    ```bash
-   git clone [https://github.com/<your-username>/contact-form.git](https://github.com/chitiris/Form-Example.git)
+   git clone https://github.com/chitiris/Form-Example.git
